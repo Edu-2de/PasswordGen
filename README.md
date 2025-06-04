@@ -1,4 +1,4 @@
-# Secure Password Generator (PHP)
+# Secure Password Generator 
 
 This repository contains a simple web application built with PHP that generates secure, random passwords for users. It is designed to help users create strong passwords for their accounts and improve online security.
 
